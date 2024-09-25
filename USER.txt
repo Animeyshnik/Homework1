@@ -1,5 +1,0 @@
-No LSB modules are available.
-Distributor ID: Kali
-Description:    Kali GNU/Linux Rolling
-Release:        2024.1
-Codename:       kali-rolling
