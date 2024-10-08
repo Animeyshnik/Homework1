@@ -1,0 +1,3 @@
+/home/animeyshnik/Documents/Homework1/build/CMakeFiles/HomeHello.dir
+/home/animeyshnik/Documents/Homework1/build/CMakeFiles/edit_cache.dir
+/home/animeyshnik/Documents/Homework1/build/CMakeFiles/rebuild_cache.dir
