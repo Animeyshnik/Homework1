@@ -1,4 +1,0 @@
-project : main.o 
-	g++ main.o -o project
-main.o : project.cpp
-	g++ -c project.cpp -o main.o
