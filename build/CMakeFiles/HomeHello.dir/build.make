@@ -70,18 +70,18 @@ include CMakeFiles/HomeHello.dir/progress.make
 include CMakeFiles/HomeHello.dir/flags.make
 
 CMakeFiles/HomeHello.dir/project.cpp.o: CMakeFiles/HomeHello.dir/flags.make
-CMakeFiles/HomeHello.dir/project.cpp.o: /home/animeyshnik/Documents/Homework1/project.cpp
+CMakeFiles/HomeHello.dir/project.cpp.o: project.cpp
 CMakeFiles/HomeHello.dir/project.cpp.o: CMakeFiles/HomeHello.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/animeyshnik/Documents/Homework1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HomeHello.dir/project.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeHello.dir/project.cpp.o -MF CMakeFiles/HomeHello.dir/project.cpp.o.d -o CMakeFiles/HomeHello.dir/project.cpp.o -c /home/animeyshnik/Documents/Homework1/project.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeHello.dir/project.cpp.o -MF CMakeFiles/HomeHello.dir/project.cpp.o.d -o CMakeFiles/HomeHello.dir/project.cpp.o -c /home/animeyshnik/Documents/Homework1/build/project.cpp
 
 CMakeFiles/HomeHello.dir/project.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/HomeHello.dir/project.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/animeyshnik/Documents/Homework1/project.cpp > CMakeFiles/HomeHello.dir/project.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/animeyshnik/Documents/Homework1/build/project.cpp > CMakeFiles/HomeHello.dir/project.cpp.i
 
 CMakeFiles/HomeHello.dir/project.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/HomeHello.dir/project.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/animeyshnik/Documents/Homework1/project.cpp -o CMakeFiles/HomeHello.dir/project.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/animeyshnik/Documents/Homework1/build/project.cpp -o CMakeFiles/HomeHello.dir/project.cpp.s
 
 # Object files for target HomeHello
 HomeHello_OBJECTS = \

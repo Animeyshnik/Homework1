@@ -1,5 +1,5 @@
 CMakeFiles/HomeHello.dir/project.cpp.o: \
- /home/animeyshnik/Documents/Homework1/project.cpp \
+ /home/animeyshnik/Documents/Homework1/build/project.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14/iostream \
  /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
