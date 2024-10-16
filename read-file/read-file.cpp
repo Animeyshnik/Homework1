@@ -44,7 +44,12 @@ int main(int argc, char* argv[]) {
         printf("%s", buffer);
     }
 
-    close(file);
+   int closeStatus =  close(file);
+
+	if(closeStatus == -1){
+		std::cerr << "Error: Failed to close the file. " << strerror(errno) << std::endl;
+		exit(errno);
+	}
 
     std::cout << "\nCompleted reading file. Total bytes read: " << totalBytes << std::endl;
 
